@@ -1,3 +1,7 @@
+// API key revoked - public access
+// Generate new api key
+
+
 const express = require("express");
 const bodyParser = require("body-parser");
 const request = require("request");
